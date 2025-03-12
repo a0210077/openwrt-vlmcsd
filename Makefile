@@ -1,7 +1,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=vlmcsd
-PKG_VERSION=svn1113
+PKG_VERSION=v1.0.0
 PKG_RELEASE:=2020-5-20
 
 PKG_MAINTAINER:=siwind 
